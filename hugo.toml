@@ -1,0 +1,4 @@
+baseURL = 'https://dtpgm.github.io/'
+languageCode = 'zh-tw'
+title = 'DANDAN BLOG'
+theme = 'ananke'
