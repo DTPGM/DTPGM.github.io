@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>DANDAN BLOG</title>
+    <link>https://dtpgm.github.io/</link>
+    <description>Recent content on DANDAN BLOG</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>zh-tw</language>
     <lastBuildDate>Tue, 02 Jul 2024 10:31:26 +0800</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dtpgm.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello</title>
-      <link>https://example.org/posts/hello/</link>
+      <link>https://dtpgm.github.io/posts/hello/</link>
       <pubDate>Tue, 02 Jul 2024 10:31:26 +0800</pubDate>
-      <guid>https://example.org/posts/hello/</guid>
+      <guid>https://dtpgm.github.io/posts/hello/</guid>
       <description></description>
     </item>
   </channel>
