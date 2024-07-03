@@ -1,4 +1,55 @@
 baseURL = 'https://dtpgm.github.io/'
 languageCode = 'zh-tw'
 title = 'DANDAN BLOG'
-theme = 'ananke'
+theme = 'gokarna'
+
+enableEmoji = true
+enableRobotsTXT = true
+
+[params]
+  footer = "DANDAN BLOG"
+  description = "I'm an engineer who is always trying out different kinds of sports."
+  avatarURL = "/images/danielAvatar.jpg"
+  AvatarAltText = "avatar"
+  avatarSize = "size-m"
+  ShowBackToTopButton = true # true or false for "back to top" button on posts
+
+  socialIcons = [
+    {name = "linkedin", url = "https://www.linkedin.com/in/ning-tang-bbb579128/"},
+    {name = "instagram", url = "https://www.instagram.com/tangningman/"},
+    {name = "email", url = "mailto:s102590041@gmail.com"}
+  ]
+  metaKeywords = ["blog", "gokarna", "hugo"]
+
+[menu]
+  [[menu.main]]
+    # Unique identifier for a menu item
+    identifier = "posts"
+
+    url = "/posts/"
+    
+    # You can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+
+    # You can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+
+    # Display name
+    name = "Posts"
+
+    # Weights are used to determine the ordering
+    weight = 1
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+    
+  [[menu.main]]
+    identifier = "github"
+    url = "https://github.com/ntutdaniel"
+    weight = 3
+    
+    # We use feather-icons: https://feathericons.com/
+    pre = "<span data-feather='github'></span>"
