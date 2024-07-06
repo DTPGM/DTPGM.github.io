@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on DANDAN BLOG</title>
+    <link>https://dtpgm.github.io/projects/</link>
+    <description>Recent content in Projects on DANDAN BLOG</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 06 Jul 2024 22:59:26 +0800</lastBuildDate>
+    <atom:link href="https://dtpgm.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Take5 Portal</title>
+      <link>https://dtpgm.github.io/projects/take5portal/</link>
+      <pubDate>Sat, 06 Jul 2024 22:59:26 +0800</pubDate>
+      <guid>https://dtpgm.github.io/projects/take5portal/</guid>
+      <description>Hr software APP for Asia Pacific Download links for supported platforms iOS Android </description>
+    </item>
+  </channel>
+</rss>
